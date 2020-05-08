@@ -1,4 +1,4 @@
-# weekly-challenges week 1
+# weekly-challenges week 3
 
 <div align="center">
 
