@@ -6,6 +6,27 @@
 
 With respect to the #7WeeksOfCode challenge, we would be having weekly challenges where tasks will be created for the 5 LEARNING CATEGORY and members will work on them to win internet subscription prizes to keep them running for the 7 weeks. First 2 members to complete the task for each category wins the prize.
 
+## Guidelines
+
+- Ensure to register at https://bit.ly/devcl-wc
+- Check the task for any category (You can only participate in one per week)
+- Complete the task in 48 hours (Any submission after this time will be disregarded)
+- Submit your finished task as eplained below
+
+## Submission Rules
+
+- Head to the submission directory
+- Navigate into the directory for that week (e.g `Week One`)
+- Locate the `README.md` file inside the directory
+- Under the heading for the category you participated in, add your **Fullname** and **Task Link** without deleting anyting like so:
+  
+  ```
+  Fullname: Elon Musk
+  Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
+  ```
+
+To push your solution to us, create a pull request to this repository
+
 ## Challenges
 
 | Category                       | Week One                                                                                                  | Week Two                                                                                                  | Week Three                                                                                                | Week Four                                                                                                 | Week Five                                                                                                 | Week Six                                                                                                  | Week Seven                                                                                                |
