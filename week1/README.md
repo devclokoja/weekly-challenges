@@ -1,4 +1,4 @@
-# weekly-challenges week 1
+# Tasks for Week One
 
 ## Web/ Mobile Development
 
