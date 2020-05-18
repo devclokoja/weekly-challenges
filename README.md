@@ -15,15 +15,15 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 
 ## Task Links Guide
 
-### Web/ Mobile Development
+**Web/ Mobile Development**
 
-### Data Science/ Machine Learning
+**Data Science/ Machine Learning**
 
-### UI/UX Design
+**UI/UX Design**
 
-### Cloud Computing
+**Cloud Computing**
 
-### Technical Writing
+**Technical Writing**
 
 ## Submission Rules
 
