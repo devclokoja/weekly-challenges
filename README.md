@@ -13,10 +13,22 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 - Complete the task in 48 hours (Any submission after this time will be disregarded)
 - Submit your finished task as eplained below
 
+## Task Links Guide
+
+### Web/ Mobile Development
+
+### Data Science/ Machine Learning
+
+### UI/UX Design
+
+### Cloud Computing
+
+### Technical Writing
+
 ## Submission Rules
 
-- Head to the submission directory
-- Navigate into the directory for that week (e.g `Week One`)
+- Navigate into the directory for a week (e.g `Week One`)
+- Navigate into the submission directory
 - Locate the `README.md` file inside the directory
 - Under the heading for the category you participated in, add your **Fullname** and **Task Link** without deleting anyting like so:
   
