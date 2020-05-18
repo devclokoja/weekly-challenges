@@ -1,20 +1,12 @@
 # weekly-challenges week 1
 
-<div align="center">
+## Web/ Mobile Development
 
-![x84OA-3j.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1588872349664/5RKQN7gyi.png)
+## Data Science/ Machine Learning
 
-</div>
+## UI/UX Design
 
-## Challenges
+## Cloud Computing
 
-### Web/ Mobile Development
-
-### Data Science/ Machine Learning
-
-### UI/UX Design
-
-### Cloud Computing
-
-### Technical Writing
+## Technical Writing
 
