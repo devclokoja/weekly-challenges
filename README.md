@@ -46,7 +46,9 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
   ```
   Fullname: Elon Musk
   Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
+  
   ---
+  
   ```
 
 - Create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to this repository to add your submission as stated above.
