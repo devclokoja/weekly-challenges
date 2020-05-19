@@ -41,10 +41,10 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 - Navigate into the directory for the week (e.g `Week One`).
 - Navigate into the submission directory.
 - Locate the `README.md` file inside the directory.
-- Under the heading for the category you participated in, add your **Fullname** and **Task Link** (Where you pushed your code or wrote your article) without altering or deleting anyting like so:
+- Under the heading for the category you participated in, add your **Fullname** and **Task Link** (Where you pushed your code or wrote your article) without altering or deleting anyting like so (You can copy and use this as a template and edit to your own details):
   
   ```
-  Fullname: Elon Musk
+  Fullname: Elon Musk <br />
   Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
   
   ---
