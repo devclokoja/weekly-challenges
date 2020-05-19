@@ -8,10 +8,10 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 
 ## Prerequisite
 
-- Join the DevCLokoja [facebook group](https://web.facebook.com/groups/devclokoja)
+- Join the DevCLokoja [Facebook group](https://web.facebook.com/groups/devclokoja)
 - Basic knowledge about the category you want to participate in
 - A computer or mobile device
-- Internet
+- Internet Connection
 - Ability to use GitHub and other online code platforms
 - Ability to create a pull request. Learn how to do this [here](https://www.youtube.com/watch?v=e3bjQX9jIBk)
 
@@ -26,15 +26,15 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 
 ## Task Links Guide
 
-**Web/ Mobile Development**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
+- **Web/ Mobile Development**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
 
-**Data Science/ Machine Learning**: Push your code to [GitHub](https://github.com) or [Repl.it](https://repl.it).
+- **Data Science/ Machine Learning**: Push your code to [GitHub](https://github.com) or [Repl.it](https://repl.it).
 
-**UI/UX Design** Upload your design to [Dribble](https://dribbble.com/) or [Behance](http://behance.net/).
+- **UI/UX Design** Upload your design to [Dribble](https://dribbble.com/) or [Behance](http://behance.net/).
 
-**Cloud Computing**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
+- **Cloud Computing**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
 
-**Technical Writing**: Pulish your article on [Hashnode](https://hashnode.com) or drafts on [HackMD](https://hackmd.io).
+- **Technical Writing**: Pulish your article on [Hashnode](https://hashnode.com) or drafts on [HackMD](https://hackmd.io).
 
 ## Submission Rules
 
