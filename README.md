@@ -6,38 +6,52 @@
 
 With respect to the #7WeeksOfCode challenge, we would be having weekly challenges where tasks will be created for the 5 LEARNING CATEGORY and members will work on them to win internet subscription prizes to keep them running for the 7 weeks. First 2 members to complete the task for each category wins the prize.
 
+## Prerequisite
+
+- Join the DevCLokoja [facebook group](https://web.facebook.com/groups/devclokoja)
+- Basic knowledge about the category you want to participate in
+- A computer or mobile device
+- Internet
+- Ability to use GitHub and other online code platforms
+- Ability to create a pull request. Learn how to do this [here](https://www.youtube.com/watch?v=e3bjQX9jIBk)
+
+> PS: You don't have to be a professional, you just need to know how the basics work for submission
+
 ## Guidelines
 
-- Ensure to register at https://bit.ly/devcl-wc
-- Check the task for any category (You can only participate in one per week)
-- Complete the task in 48 hours (Any submission after this time will be disregarded)
-- Submit your finished task as eplained below
+- Ensure to register at https://bit.ly/devcl-wc.
+- Check the task for any category (You can only participate in one per week).
+- Complete the task in 48 hours (Any submission after this time will be disregarded).
+- Submit your finished task as eplained below.
 
 ## Task Links Guide
 
-**Web/ Mobile Development**
+**Web/ Mobile Development**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
 
-**Data Science/ Machine Learning**
+**Data Science/ Machine Learning**: Push your code to [GitHub](https://github.com) or [Repl.it](https://repl.it).
 
-**UI/UX Design**
+**UI/UX Design** Upload your design to [Dribble](https://dribbble.com/) or [Behance](http://behance.net/).
 
-**Cloud Computing**
+**Cloud Computing**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
 
-**Technical Writing**
+**Technical Writing**: Pulish your article on [Hashnode](https://hashnode.com) or drafts on [HackMD](https://hackmd.io).
 
 ## Submission Rules
 
-- Navigate into the directory for a week (e.g `Week One`)
-- Navigate into the submission directory
-- Locate the `README.md` file inside the directory
-- Under the heading for the category you participated in, add your **Fullname** and **Task Link** without deleting anyting like so:
+- Navigate into the directory for the week (e.g `Week One`).
+- Navigate into the submission directory.
+- Locate the `README.md` file inside the directory.
+- Under the heading for the category you participated in, add your **Fullname** and **Task Link** (Where you pushed your code or wrote your article) without altering or deleting anyting like so:
   
   ```
   Fullname: Elon Musk
   Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
+  ---
   ```
 
-To push your solution to us, create a pull request to this repository
+- Create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to this repository to add your submission as stated above.
+- A moderator will review and provide feedback as soon as possible.
+- First 2 submission to be submiited and approved will win the prize for that category.
 
 ## Challenges
 
