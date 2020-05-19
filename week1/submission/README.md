@@ -3,7 +3,7 @@
 - Under the heading for the category you participated in, add your **Fullname** and **Task Link** (Where you pushed your code or wrote your article) without altering or deleting anyting like so:
   
   ```
-  Fullname: Elon Musk
+  Fullname: Elon Musk <br />
   Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
   
   ---
@@ -16,12 +16,12 @@
 
 ## Submissions
 
-Fullname: Elon Musk
+Fullname: Elon Musk <br />
 Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
 
 ---
 
-Fullname: Elon Test
+Fullname: Elon Test <br />
 Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
 
 ---
