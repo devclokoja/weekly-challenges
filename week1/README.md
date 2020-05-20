@@ -115,4 +115,4 @@ Hint: Use `wget` and `tar` commands to achieve this task
 
 We had an [AMA with Favor Ori](https://web.facebook.com/groups/devclokoja/permalink/2983504448391908/) some weeks ago where he shared insights on how he got started in programming, founded FavCode54, WeJapa and sold 2 startups [college situation ($70k) & Tugure ($17k)].
 
-Re-watch the live stream [here](https://web.facebook.com/groups/devclokoja/permalink/2983504448391908/) and write a recap article to summrize the key points from favors introduction and answers to some of the questions asked.
+Re-watch the live stream [here](https://web.facebook.com/groups/devclokoja/permalink/2983504448391908/) and write a recap article to summarize the key points from favors introduction, story and answers to some of the questions asked.
