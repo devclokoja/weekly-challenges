@@ -1,6 +1,6 @@
 # Tasks for Week One
 
-PS: Feel free to use any tech to complete all the tasks, we only recommend based on the capabilities of our mentors.
+PS: Feel free to use any tech to complete any task, we only recommend based on the capabilities of our mentors. Also be creative, play around the task and add extra features as you wish.
 
 ## Web/ Mobile Development
 
@@ -8,11 +8,11 @@ PS: Feel free to use any tech to complete all the tasks, we only recommend based
 
 Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app or view it as a website.
 
-Build a responsive Mi Card personal business card for web and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com). Be creative and add extra features as you wish.
+Build a responsive Mi Card personal business card for web and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com).
 
 or
 
-Build a Mi Card personal business card app for mobile. Be creative and add extra features as you wish.
+Build a Mi Card personal business card app for mobile.
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/Screenshot_20200519-191605.png?raw=true)
 
