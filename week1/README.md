@@ -4,19 +4,29 @@ PS: Feel free to use any tech to complete any task, we only recommend based on t
 
 ## Web/ Mobile Development
 
-### What you will create
-
 Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app or view it as a website.
 
 #### Web Development
 
-Build a responsive Mi Card personal business card website and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com).
+Build a responsive Mi Card personal business card website and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com) with details:
+
+- Full name
+- Job title
+- Telephone
+- Email address
+- Website URL
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/web01.png?raw=true)
 
 #### Mobile Development
 
-Build a Mi Card personal business card app mobile application.
+Build a Mi Card personal business card app mobile application with details:
+
+- Full name
+- Job title
+- Telephone
+- Email address
+- Website URL
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/mobile01.png?raw=true)
 
@@ -43,9 +53,15 @@ Build a Mi Card personal business card app mobile application.
 
 ## UI/UX Design
 
-### What you will create
+Mi Card is a personal business card. Design your personal business card with details:
 
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app or view it as a website.
+- Full name
+- Job title
+- Telephone
+- Email address
+- Website URL
+
+![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/mobile01.png?raw=true)
 
 ### What you will learn (Web)
 
