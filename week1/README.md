@@ -79,7 +79,17 @@ Mi Card is a personal business card. Design your personal business card for web 
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/web01.png?raw=true)
 
-### What you will learn (Web)
+### What you will learn
+
+- How to use design tools
+- How to design for different screen sizes
+- UI principles
+- Colors
+- Typography
+- Layouts
+- Contrast
+- UX processes
+- How to upload your designs online
 
 ## Cloud Computing
 
