@@ -2,6 +2,7 @@
 
 PS: Feel free to use any tech to complete any task, we only recommend based on the capabilities of our mentors. Also be creative, play around the task and add extra features as you deem fit.
 
+
 ## Web/ Mobile Development
 
 Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app or view it as a website.
@@ -92,6 +93,20 @@ Mi Card is a personal business card. Design your personal business card for web 
 - How to upload your designs online
 
 ## Cloud Computing
+
+This challenge will help get better at Shell scripting, it is however fundamental that you understand simple shell commands like **mv**, **cp**, **cd** as it will enable you figure out how to solves the challenges. Use this [tutorial](https://opensource.com/article/17/1/getting-started-shell-scripting) to get started with Shell commands. 
+
+Build a simple Command-line interface with shell commands that will download `https://jigsaw.w3.org/Distrib/jigsaw_2.0.0.tar.gz` and extract automatically
+
+Hint: Use `wget` and `tar` commands to achieve this task
+
+### What you will learn
+
+- Shell scripting
+- How to work with CLIs
+- Ability to pull data from any remote server and extract it
+- Practical uses cases of the Linux environments
+
 
 ## Technical Writing
 
