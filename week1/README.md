@@ -8,11 +8,13 @@ PS: Feel free to use any tech to complete any task, we only recommend based on t
 
 Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app or view it as a website.
 
+#### Web Development
+
 Build a responsive Mi Card personal business card for web and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com).
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/web01.png?raw=true)
 
-or
+#### Mobile Development
 
 Build a Mi Card personal business card app for mobile.
 
