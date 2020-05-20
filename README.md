@@ -34,7 +34,7 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 
 - **Cloud Computing**: Push your code to online code platforms or IDEs like [GitHub](https://github.com), [CodePen](https://codepen.io/), [CodeSandBox](https://codesandbox.io) or [Repl.it](https://repl.it/).
 
-- **Technical Writing**: Pulish your article on [Hashnode](https://hashnode.com) or drafts on [HackMD](https://hackmd.io).
+- **Technical Writing**: Pulish your article on [Hashnode](https://hashnode.com) or drafts on [HackMD](https://hackmd.io), [Google Docs](https://docs.google.com/), [Notion](https://www.notion.so/) and [Dropbox Paper](https://paper.dropbox.com/).
 
 ## Submission Rules
 
