@@ -51,6 +51,22 @@ Build a Mi Card personal business card app mobile application with details:
 
 ## Data Science/ Machine Learning
 
+Download the [Titanic dataset]()
+
+- Read the dataset into a data frame 
+- Check if there is any missing value, get the total number of the missing value and finally remove the missing values and save it into a new variable
+- visualize the both the first variable (the ones containing missing values) and the new variable with histogram and barchart
+- Remove the passengerid, survived, name, age and sex columns the save it another new variable called (new_data)
+- The save the(new_data) as a new csv file
+
+### What you will learn
+
+- How to read data 
+- Removing Nan from a dataset which can cause inaccuracy of a model
+- How visualize a dataset to get more insight about the data 
+- How to select some useful column to fit the models
+- How to create a new csv file
+
 ## UI/UX Design
 
 Mi Card is a personal business card. Design your personal business card with details:
