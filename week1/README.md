@@ -69,7 +69,7 @@ Download the [Titanic dataset]()
 
 ## UI/UX Design
 
-Mi Card is a personal business card. Design your personal business card with details:
+Mi Card is a personal business card. Design your personal business card for web and mobile with details:
 
 - Full name
 - Job title
@@ -77,7 +77,7 @@ Mi Card is a personal business card. Design your personal business card with det
 - Email address
 - Website URL
 
-![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/mobile01.png?raw=true)
+![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/web01.png?raw=true)
 
 ### What you will learn (Web)
 
