@@ -55,9 +55,9 @@ Download the [Titanic dataset](https://github.com/devclokoja/weekly-challenges/b
 
 - Read the dataset into a data frame 
 - Check if there is any missing value, get the total number of the missing value and finally remove the missing values and save it into a new variable
-- visualize the both the first variable (the ones containing missing values) and the new variable with histogram and barchart
-- Remove the passengerid, survived, name, age and sex columns the save it another new variable called (new_data)
-- The save the(new_data) as a new csv file
+- Visualize both the first variable (the ones containing missing values) and the new variable with histogram and barchart
+- Remove the `passengerid`, `survived`, `name`, `age` and `sex` columns the save it another new variable called (new_data)
+- Save the(new_data) as a new **csv** file
 
 ### What you will learn
 
@@ -95,3 +95,6 @@ Mi Card is a personal business card. Design your personal business card for web 
 
 ## Technical Writing
 
+We had an [AMA with Favor Ori](https://web.facebook.com/groups/devclokoja/permalink/2983504448391908/) some weeks ago where he shared insights on how he got started in programming, founded FavCode54, WeJapa and sold 2 startups [college situation ($70k) & Tugure ($17k)].
+
+Re-watch the live stream [here](https://web.facebook.com/groups/devclokoja/permalink/2983504448391908/) and write a recap article to summrize the key points from favors introduction and answers to some of the questions asked.
