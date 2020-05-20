@@ -51,7 +51,7 @@ Build a Mi Card personal business card app mobile application with details:
 
 ## Data Science/ Machine Learning
 
-Download the [Titanic dataset]()
+Download the [Titanic dataset](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/titanic.csv)
 
 - Read the dataset into a data frame 
 - Check if there is any missing value, get the total number of the missing value and finally remove the missing values and save it into a new variable
