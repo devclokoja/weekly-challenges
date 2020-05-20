@@ -10,13 +10,13 @@ Imagine every time you wanted to give someone your contact details or your busin
 
 #### Web Development
 
-Build a responsive Mi Card personal business card for web and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com).
+Build a responsive Mi Card personal business card website and deploy to [Netlify](https://netlify.com/), [GitHub Pages](https://pages.github.com/) or [Vercel](https://vercel.com).
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/web01.png?raw=true)
 
 #### Mobile Development
 
-Build a Mi Card personal business card app for mobile.
+Build a Mi Card personal business card app mobile application.
 
 ![](https://github.com/devclokoja/weekly-challenges/blob/master/_assets/mobile01.png?raw=true)
 
