@@ -26,7 +26,7 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 - Ensure to register at https://bit.ly/devcl-wc.
 - Check the task for any category (You can only participate in one per week).
 - Complete the task in 48 hours (Any submission after this time will be disregarded).
-- Submit your finished task as eplained below.
+- Submit your finished task as explained below.
 
 ## Task Links Guide
 
