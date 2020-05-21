@@ -8,7 +8,7 @@ With respect to the #7WeeksOfCode challenge, we would be having weekly challenge
 
 ## Prize
 
-1000 NGN woth of internet plan for first two approved subbmissions from each category
+1000 NGN worth of internet plan for first two approved subbmissions from each category
 
 ## Prerequisite
 
