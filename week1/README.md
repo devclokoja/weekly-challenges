@@ -6,6 +6,8 @@
 
 🛑 Google is your best friend, ensure to research well and find answers when you need help. Please read [this](https://bolajiayodeji.com/how-to-ask-effective-questions-a-practical-guide-for-developers-ckaezf8w004ewc5s1gnkd5puf).
 
+🛑 Deadline: Saturday 23/05/2020 by 11:59 PM (GMT+1)
+
 ## Web/ Mobile Development
 
 Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app or view it as a website.
