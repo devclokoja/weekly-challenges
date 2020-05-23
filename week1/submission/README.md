@@ -16,12 +16,7 @@
 
 ## Submissions
 
-Fullname: Elon Musk <br />
-Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
-
----
-
-Fullname: Elon Test <br />
-Task Link: https://codepen.io/iambolajiayo/pen/MGMNpB
+Fullname: Agene Sunday <br />
+Task Link: https://codesandbox.io/s/business-card-kne52?file=/index.html
 
 ---
